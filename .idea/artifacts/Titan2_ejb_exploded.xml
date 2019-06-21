@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="Titan2:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Titan2_ejb_exploded.jar</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Titan2/ejb/EJB" />
+      <element id="module-output" name="Titan2" />
+    </root>
+  </artifact>
+</component>
